@@ -1,5 +1,5 @@
-Solução do Challange Oracle Next Education T7 | 
-https://henrickmaia.github.io/
+Challange Oracle Next Education T7 | 
+LINK DO PROJETO: https://henrickmaia.github.io/
 
 Neste projeto foram utilizados HTML, CSS e JS.
 
